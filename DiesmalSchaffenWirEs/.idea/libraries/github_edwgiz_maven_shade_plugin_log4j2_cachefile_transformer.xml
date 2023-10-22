@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="github.edwgiz.maven.shade.plugin.log4j2.cachefile.transformer" type="repository">
+    <properties maven-id="com.github.edwgiz:maven-shade-plugin.log4j2-cachefile-transformer:2.15" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/edwgiz/maven-shade-plugin.log4j2-cachefile-transformer/2.15/maven-shade-plugin.log4j2-cachefile-transformer-2.15.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
